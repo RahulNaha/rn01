@@ -55,6 +55,7 @@ body{
     
     background-image:url("magic-storm-wings.jpg");
     background-size: contain;
+    object-fit:contain;
     background-repeat:no-repeat;
     border-style: dotted;
     font-style: oblique;
