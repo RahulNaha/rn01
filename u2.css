@@ -54,7 +54,7 @@ h1
 body{
     
     background-image:url("magic-storm-wings.jpg");
-    background-size: cover;
+    background-size: contain;
     background-repeat:no-repeat;
     border-style: dotted;
     font-style: oblique;
