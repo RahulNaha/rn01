@@ -1,0 +1,170 @@
+/* *
+{
+margin:0;
+padding:0;
+
+}  */
+#time
+{
+    color: azure;
+}
+#plo 
+{
+border-radius: 25px;
+border-color: black;
+border: 10px solid black;
+}
+#first
+{
+    background-color: orangered;
+    display: grid;
+    
+}
+.container
+{
+   
+    text-align: left;
+    margin: auto;
+    font-size: 20px;
+    color: aliceblue;
+  
+    
+   text-align: center;
+}
+.onr 
+{
+    height: 40px;
+    background-color: blueviolet;
+}
+.pom
+{
+    height: 90wh;
+    width: 90vh;
+    margin:auto;
+    top: auto;
+    background-color:gold;
+}
+
+h1
+{
+    font-style: normal;
+    color: blueviolet;
+    text-align: center;
+}
+body{
+    
+    background-image:url("magic-storm-wings.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    border-style: dotted;
+    font-style: oblique;
+    border :3px solid red;
+     box-sizing:cover;
+    font-size:large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer
+{
+    background-color: black;
+    text-align: center;
+    color: azure;
+    padding: 10px;
+   
+    overflow: auto;
+    
+}
+header
+{
+    background-color: black;
+    
+    color:  white;
+    padding: 20px;
+}
+header ul li a
+{
+    text-decoration: none;
+    display: inline;
+}
+header ul li 
+{
+ 
+    display: inline;
+    margin: 24px 14px;
+}
+.child
+{
+    font-size: 3em;
+}
+.opp
+{
+    height: 50wh;
+    width: 50vh;
+    margin: auto;
+}
+
+ul{
+    background-color: aliceblue;
+}
+li
+{
+    list-style: disc;border:  2px solid red;
+}
+.con
+{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box1
+{
+    border: 2px solid black;
+}
+.box2
+{
+    border: 2px solid black;
+}
+.box3
+{
+    border: 2px solid black;
+}
+.oil
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-gap: 9px 9px;
+}
+@media  screen and (max-width:800px)
+ {
+    body 
+    {
+        background-color: blue;
+        color: aliceblue;
+        list-style-type: square;
+        
+        
+    }
+    li
+    {
+        color: aqua;
+
+    }
+    li span
+    {
+         color: chartreuse;
+    }
+}
+.child
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: aliceblue;
+}
+.jumbotron
+{
+    color: aliceblue;
+}
