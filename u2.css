@@ -130,6 +130,26 @@ li
 {
     border: 2px solid black;
 }
+@media screen and (min-width : 0px) and (max-width : 767px)
+ {
+    body 
+    {
+        background-color: blue;
+        color: aliceblue;
+        list-style-type: square;
+        
+        
+    }
+    li
+    {
+        color: aqua;
+
+    }
+    li span
+    {
+         color: chartreuse;
+    }
+}
 .oil
 {
     display: flex;
